@@ -1,0 +1,26 @@
+{
+  "id": "e68351a8-3633-4406-8b91-358fff767b7c",
+  "name": "Project1",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "target": "OnPrem",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50200
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0"
+}
