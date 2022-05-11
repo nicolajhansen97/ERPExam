@@ -18,7 +18,7 @@ pageextension 50117 "Page Menu Extension" extends "Order Processor Role Center"
             {
                 ApplicationArea = All;
                 Promoted = true;
-                RunObject = Page 50142;
+                RunObject = Page 50119;
             }
         }
     }
