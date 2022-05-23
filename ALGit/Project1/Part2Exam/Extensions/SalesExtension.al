@@ -21,5 +21,15 @@ pageextension 50117 "Page Menu Extension" extends "Order Processor Role Center"
                 RunObject = Page 50119;
             }
         }
+
+        addafter("Top Amazon Electronic Products")
+        {
+            action("Test codeunit")
+            {
+                ApplicationArea = All;
+                Promoted = true;
+                RunObject = codeunit 50122;
+            }
+        }
     }
 }

@@ -6,7 +6,7 @@ controladdin AmazonControl
     HorizontalStretch = true;
     HorizontalShrink = true;
     Scripts = 'Part2Exam/Javascript/Demo.js';
-    StyleSheets = 'Part2Exam/AmazonSS.css';
+    StyleSheets = 'Part2Exam/CSS/AmazonSS.css';
     StartupScript = 'Part2Exam/Javascript/Start.js';
 
     event Ready()
